@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_yzk_gsw_kdc">
+    <title>使用Zotero阅读文献</title>
+    <shortdesc>Zotero作为文献管理软件，阅读文献是最基础的一项功能。为了使阅读、管理文献的过程更加便捷、流畅，此处提供集中使用Zotero打开、阅读文献的方式。用户可选择偏好的方式进行操作。</shortdesc>
+    <taskbody>
+        <context>
+            <p></p>
+        </context>
+        <steps>
+            <step>
+                <cmd></cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
